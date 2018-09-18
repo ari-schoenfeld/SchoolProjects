@@ -7,5 +7,5 @@ Rational.o: Rational.cpp Rational.h
 
 clean:
 	rm *.o
-cleanmain:
+cleanMain:
 	rm *.o main
